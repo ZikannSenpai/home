@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Zikann Senpai&width=800&height=200)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Zikann-Senpai&width=800&height=200)](https://github.com/Akshay090/svg-banners)
  <h3>Hi There 👋, I'm Zikann </h3>
 
 ## 🥇 Technical Skills:
