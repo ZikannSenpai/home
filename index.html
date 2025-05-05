@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>HomePage Zikann Senpai</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+</head>
+<body>
+  <div class="profile-header">
+    <img src="profile.png" alt="Profile" class="profile-img" />
+    <span class="profile-name">Zikann Senpai</span>
+  </div>
+
+  <div class="container">
+    <h1>My Links</h1>
+
+    <!-- Github 1 -->
+    <a href="https://github.com/ZikannSenpai" class="link-btn" target="_blank">
+      <i class="fab fa-github"></i> Official Github
+    </a>
+
+    <!-- Github 2 -->
+    <a href="https://github.com/ZikannSenpai/coding-bebas" class="link-btn" target="_blank">
+      <i class="fab fa-github"></i> Github Music
+    </a>
+
+    <!-- GTPS toggle button -->
+    <button class="link-btn" onclick="toggleGtpsLinks()">
+      <img src="images.jpeg" alt="GT" class="icon-img" />
+      Death Private Server (GTPS)
+    </button>
+
+    <!-- GTPS hidden links -->
+    <div id="gtps-links" class="gtps-hidden">
+      <a href="https://discord.gg/2sfN4v8U" class="link-btn" target="_blank">
+        <i class="fab fa-discord"></i> Discord GTPS
+      </a>
+      <a href="https://chat.whatsapp.com/EncJJ80JIFm2dlq0pIwymN" class="link-btn" target="_blank">
+        <i class="fab fa-whatsapp"></i> WhatsApp Group GTPS
+      </a>
+    </div>
+
+    <!-- WhatsApp -->
+    <a href="https://wa.me/6285775359514" class="link-btn" target="_blank">
+      <i class="fab fa-whatsapp"></i> WhatsApp
+    </a>
+    <a href="https://tiktok.com/@zikannsenpai" class="link-btn" target="_blank">
+      <i class="fab fa-tiktok"></i> TikTok
+    </a>
+    <a href="https://youtube.com/@zikannsenpai" class="link-btn" target="_blank">
+      <i class="fab fa-youtube"></i> Youtube
+    </a>
+  </div>
+
+  <footer class="footer">
+    &copy; 2025 Zikann Senpai. All rights reserved.
+  </footer>
+
+  <script>
+    function toggleGtpsLinks() {
+      const gtpsLinks = document.getElementById("gtps-links");
+      gtpsLinks.classList.toggle("gtps-hidden");
+      gtpsLinks.classList.toggle("gtps-visible");
+    }
+  </script>
+</body>
+</html>
