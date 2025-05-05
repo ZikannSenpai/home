@@ -13,13 +13,13 @@
 ![image](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
 
 ## 📊 Statistics  
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zikann-Senpai&theme=github_dark" style="height: 300px"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zikann Senpai&theme=github_dark" style="height: 300px"/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 GitHub Trophies
 <!-- MY GITHUB PROFILE TROPHIES -->
 <p align="left" style="vertical-align:top; margin:4px;">
     <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin: 10px;">
-        <img src="https://github-profile-trophy.vercel.app/?username=Zikann-Senpai&margin-w=15&margin-h=15&theme=onestar&column=9&title_color=ffd700&text_color=ffd700&bg_color=000000" alt="jvc-byte" />
+        <img src="https://github-profile-trophy.vercel.app/?username=ZikannSenpai&margin-w=15&margin-h=15&theme=onestar&column=9&title_color=ffd700&text_color=ffd700&bg_color=000000" alt="jvc-byte" />
     </a> 
 </p>
