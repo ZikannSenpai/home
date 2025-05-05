@@ -20,6 +20,6 @@
 <!-- MY GITHUB PROFILE TROPHIES -->
 <p align="left" style="vertical-align:top; margin:4px;">
     <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin: 10px;">
-        <img src="https://github-profile-trophy.vercel.app/?username=ZikannSenpai&margin-w=15&margin-h=15&theme=onestar&column=9&title_color=ffd700&text_color=ffd700&bg_color=000000" alt="jvc-byte" />
+        <img src="https://github-profile-trophy.vercel.app/?username=PowerKuy&margin-w=15&margin-h=15&theme=onestar&column=9&title_color=ffd700&text_color=ffd700&bg_color=000000" alt="jvc-byte" />
     </a> 
 </p>
